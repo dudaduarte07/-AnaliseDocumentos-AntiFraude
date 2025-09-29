@@ -43,5 +43,5 @@ Criar um sistema confiável e eficiente para analisar documentos utilizando tecn
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/dudaduarte07/-AnaliseDocumentos-AntiFraude
    ```
